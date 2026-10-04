@@ -1,0 +1,3 @@
+com/security/netsentinel/engine/PortScannerEngineTest.class
+com/security/netsentinel/util/PortSpecParserTest.class
+com/security/netsentinel/NetSentinelCLITest.class
